@@ -1,4 +1,4 @@
-# Parkinson-Disease-Classification
+# Parkinson-Disease-Classification using Ensemble and Quantum Neural Network Approaches
 This project aims to accurately classify Parkinson’s Disease by leveraging both classical ensemble learning and cutting-edge quantum machine learning techniques. Traditional ensemble methods like Random Forest and Gradient Boosting were employed to capture complex patterns in biomedical voice measurements. Additionally, a Quantum Neural Network (QNN) model was developed using parameterized quantum circuits to explore quantum advantages in handling high-dimensional data. The hybrid approach improves classification accuracy and robustness, offering a promising step towards early and reliable diagnosis of Parkinson’s Disease.
 import pandas as pd
 import numpy as np
